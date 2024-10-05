@@ -24,6 +24,17 @@ print(volume); //output : 1000.0
 ```
 
 ## Penjelasan Kode
-> Fungsi luasLingkaran(double x) merupakan sebuah function/method yang menghitung luas lingkaran berdasarkan rumus phi * r^2.
+> - Fungsi luasLingkaran(double x) merupakan sebuah function/method yang menghitung luas lingkaran berdasarkan rumus phi * r^2.
 >
-> Fungsi volumeKubus(double x) merupakan sebuah function/method yang menghitung sebuah volume kubus berdasarkan rumus s^3.
+>```dart
+>  luasLingkaran(double x){
+>  return 22/7 * x * x; //dimana x merupakan jari-jari
+>  }
+>```
+> - Fungsi volumeKubus(double x) merupakan sebuah function/method yang menghitung sebuah volume kubus berdasarkan rumus s^3.
+>
+>```dart
+>  volumeKubus(double x){
+>    return x*x*x; //dimana x merupakan panjang sisi dari kubus
+>  }
+>```

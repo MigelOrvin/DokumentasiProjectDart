@@ -6,6 +6,6 @@ Project ini berfungsi untuk memberikan sebuah output yang dimana ditujukan untuk
 - `README.md`: berisi dokumentasi project ini.
 ## Cara Instalasi
 1. Pastikan Dart telah terinstal pada komputer/laptop Anda.
-2. > Jalankan perintah ataupun syntax untuk menjalankan project: `dart file_dart.dart`
+> 2. Jalankan perintah ataupun syntax untuk menjalankan project: `dart file_dart.dart`
 ## Cara Penggunaan
 - Untuk menghitung sebuah luas lingkaran, panggillah sebuah fungsi `luasLingkaran()` yang diberi sebuah input. 
